@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praneet Singh Sehra</h1>
-<h3 align="center">Software Engineer | Open Source Contributor | Data Analyst | Making the world a better place with software</h3>
+<h3 align="center">Software Engineer | Open Source Contributor | Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pspraneetsehra08&label=Profile%20views&color=0e75b6&style=flat" alt="pspraneetsehra08" /> </p>
 
